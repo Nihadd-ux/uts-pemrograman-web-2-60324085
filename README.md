@@ -1,8 +1,8 @@
 # UTS Pemrograman Web 2
 
-Nama: Muhammad Fatkhunihadh
-NIM: 60324085
-Kelas: Pemrograman WEB II B
+- Nama: Muhammad Fatkhunihadh
+- NIM: 60324085
+- Kelas: Pemrograman WEB II B
 
 ## Deskripsi
 
