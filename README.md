@@ -26,14 +26,13 @@ Aplikasi WEB sederhana ini dibuat untuk UTS Pemrograman Web 2. Aplikasi WEB sede
 
 ## Struktur Folder
 
-uts-kategori/
+uts_perpustakaan_[60324085]/
 - config/database.php
 - database/database_backup.sql
 - index.php
 - create.php
 - edit.php
 - delete.php
-- README.md
 
 ## Link Repository
 https://github.com/Nihadd-ux/uts-pemrograman-web-2-60324085
